@@ -1,0 +1,20 @@
+{
+    "name": "vitorschweder/xlr8",
+    "description": "A simple package to list hotels",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vitorschweder\\Xlr8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitor Schweder",
+            "email": "vitor.scw@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    }
+}

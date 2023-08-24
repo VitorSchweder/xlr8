@@ -54,7 +54,7 @@ class Search
             array_multisort(array_column($items, 'price'), SORT_ASC, $items);
         }
 
-        // Show list with formated data
+        // Show list with formatted data
         $finalData = '<ul>';
         foreach ($items as $item) {
             $finalData .= '<li>'.$item['name'].', '.$item['distanceKm'].' KM, '.$item['price'].' EUR</li>';

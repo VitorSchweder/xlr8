@@ -15,6 +15,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.7"
+        "guzzlehttp/guzzle": "^7.7",
+        "mjaschen/phpgeo": "^4.2"
     }
 }

@@ -3,7 +3,7 @@
 ## Installation
 Using composer:
 
-```composer require Vitorschweder/Xlr8```
+```composer require vitorschweder/xlr8```
 
 ## Example to use:
 
